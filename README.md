@@ -1,2 +1,3 @@
 # hello-world
-My first github repository
+Hi Everyone!
+Rohit here, I like Computer Programming and Maths!
